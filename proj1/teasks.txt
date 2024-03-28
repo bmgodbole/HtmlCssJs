@@ -1,0 +1,6 @@
+fix the font awesome and remove background color
+
+how to add padding class.
+why i got :before
+width assignment
+why margin 0 auto not working for inside

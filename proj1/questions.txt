@@ -1,0 +1,2 @@
+imgsec - with able to padding not able to align with other items
+with respect to image in center
